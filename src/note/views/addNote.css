@@ -1,0 +1,23 @@
+.add-note{
+	width: 100%;
+	height: 40%;
+	margin: 20px auto;
+	padding: 20px 0;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: #ccc;
+}
+
+.new-note{
+	width: 80%;
+	height: 120px;
+	padding: 6px 8px;
+	border-radius: 8px;
+}
+
+.add-btn{
+	width: 80%;
+	height: 26px;
+	margin-top: 6px;
+	border-radius: 8px;
+}
